@@ -1,2 +1,2 @@
 # LDT4SSC-Website
-Website for LDT4SSC
+Website for the LDT4SSC project
